@@ -1,0 +1,6 @@
+C:\Users\panag\Desktop\VS Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.csprojAssemblyReference.cache
+C:\Users\panag\Desktop\VS Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe.config
+C:\Users\panag\Desktop\VS Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.exe
+C:\Users\panag\Desktop\VS Projects\BuildingBlocks\BuildingBlocks\bin\Debug\BuildingBlocks.pdb
+C:\Users\panag\Desktop\VS Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.exe
+C:\Users\panag\Desktop\VS Projects\BuildingBlocks\BuildingBlocks\obj\Debug\BuildingBlocks.pdb
